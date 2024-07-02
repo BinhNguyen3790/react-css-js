@@ -4,7 +4,7 @@ class DemoJSS extends Component {
   render() {
     return (
       <div>
-        <Button>Click me!</Button>
+        <Button primary>Click me!</Button>
       </div>
     );
   }
